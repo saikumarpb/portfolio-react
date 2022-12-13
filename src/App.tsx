@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./Features/Navbar";
+import Typewriter from "typewriter-effect";
 
 function App() {
   return (
@@ -7,8 +8,16 @@ function App() {
       <div className="h-16 w-full">
         <Navbar />
       </div>
-      <div className="h-[calc(100vh-64px)] text-cyan-50 relative">
-        Let's get started
+      <div className="h-[calc(100vh-64px)] text-blue-800 relative flex items-center justify-center font-bold">
+        <Typewriter
+          options={{
+            autoStart: true,
+            loop: true,
+            deleteSpeed: 50,
+            delay: 100,
+            strings: ["Work in progress ...", "Page under development ..."],
+          }}
+        />
       </div>
     </div>
   );
