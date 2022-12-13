@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.ad98b02c.css",
-    "main.js": "/portfolio-react/static/js/main.e8d2ec9e.js",
+    "main.css": "/portfolio-react/static/css/main.1cf37228.css",
+    "main.js": "/portfolio-react/static/js/main.08105600.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/dev-icon.svg": "/portfolio-react/static/media/dev-icon.7b768c5db218ff113ee5699e8a960934.svg",
+    "static/media/github-icon.svg": "/portfolio-react/static/media/github-icon.ca6d5193610fd0f879d3c969585121b2.svg",
+    "static/media/mail-icon.svg": "/portfolio-react/static/media/mail-icon.2d2f6106eb9e1991c99af206d8e4b1bf.svg",
     "index.html": "/portfolio-react/index.html",
-    "main.ad98b02c.css.map": "/portfolio-react/static/css/main.ad98b02c.css.map",
-    "main.e8d2ec9e.js.map": "/portfolio-react/static/js/main.e8d2ec9e.js.map",
+    "static/media/telegram-icon.svg": "/portfolio-react/static/media/telegram-icon.edf2aa84c298cbc4a67ab53a668543bb.svg",
+    "static/media/linkedin-icon.svg": "/portfolio-react/static/media/linkedin-icon.fe9b1da42d9a5418d98a58da49443337.svg",
+    "main.1cf37228.css.map": "/portfolio-react/static/css/main.1cf37228.css.map",
+    "main.08105600.js.map": "/portfolio-react/static/js/main.08105600.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad98b02c.css",
-    "static/js/main.e8d2ec9e.js"
+    "static/css/main.1cf37228.css",
+    "static/js/main.08105600.js"
   ]
 }
