@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3fbdf012.css",
+    "main.js": "/portfolio/static/js/main.8dec2fc2.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio/static/js/787.aeca62f9.chunk.js",
+    "static/media/arrow-logo.svg": "/portfolio/static/media/arrow-logo.860db127cf16c9bbf974d929023d7500.svg",
+    "index.html": "/portfolio/index.html",
+    "main.3fbdf012.css.map": "/portfolio/static/css/main.3fbdf012.css.map",
+    "main.8dec2fc2.js.map": "/portfolio/static/js/main.8dec2fc2.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbdf012.css",
+    "static/js/main.8dec2fc2.js"
+  ]
+}
