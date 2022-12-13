@@ -22,6 +22,20 @@ code {
     letter-spacing: 0;
   }
 
+  h2 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0;
+  }
+
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.005em;
+    line-height: 31px;
+  }
+
   h4 {
     font-size: 20px;
     font-weight: 700;
@@ -114,6 +128,7 @@ code {
   --success-50: #f1fff2;
 
   /* Blue */
+  --blue-100: #cddfef;
   --blue-800: #03193c;
 }
 

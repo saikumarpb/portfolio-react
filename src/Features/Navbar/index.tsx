@@ -1,5 +1,6 @@
 import React from "react";
 import { ReactComponent as DevIcon } from "../../assets/dev-icon.svg";
+import Button from "../../Components/Button/indesx";
 
 function Navbar() {
   const navigationItems: { item: string }[] = [
@@ -11,11 +12,13 @@ function Navbar() {
 
   const renderNavItems = () => {
     return (
-      <div className="flex">
+      <div className="flex gap-4">
         {navigationItems.map((xs, index) => (
-          <button className="text-primary-50 px-4" key={index}>
-            {xs.item}
-          </button>
+          <Button
+            buttonText={xs.item}
+            dataTestid={`nav-${xs.item}`}
+            key={index}
+          />
         ))}
       </div>
     );

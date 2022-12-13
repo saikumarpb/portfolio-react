@@ -1,0 +1,5 @@
+.button-component:hover {
+  background-color: aliceblue !important;
+  color: #03193c !important;
+  border-color: aliceblue !important;
+}

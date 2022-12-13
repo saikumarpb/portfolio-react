@@ -83,6 +83,7 @@ module.exports = {
         },
 
         blue: {
+          100: 'var(--blue-100)',
           800: 'var(--blue-800)'
         }
       },

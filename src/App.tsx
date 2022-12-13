@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Features/Navbar";
 import Typewriter from "typewriter-effect";
+import ContactSection from "./Features/ContactSection";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           }}
         />
       </div>
+      <ContactSection />
     </div>
   );
 }
